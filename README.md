@@ -14,3 +14,8 @@
 
 ```bash
 pip install colorama
+```
+
+![Скриншот](https://i.imgur.com/0dzzLhx.png)
+
+
